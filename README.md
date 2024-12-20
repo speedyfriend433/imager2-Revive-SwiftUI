@@ -36,7 +36,8 @@ A powerful iOS text extraction and document management app built with SwiftUI.
 
 ## Screenshots
 
-(https://github.com/user-attachments/assets/32a52b31-361f-417f-9711-8c6306476840)
+![A7981B97-4023-4352-AE95-04CC3EE71827](https://github.com/user-attachments/assets/6fb6d3ee-9bc2-4c40-b73f-f162690307e8)
+
 
 ## Requirements
 
