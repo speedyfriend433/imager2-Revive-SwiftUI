@@ -124,13 +124,15 @@ imager2/
     title: "New Document",
     content: "Your content here",
     language: "en-US"
-)```
+)
+```
 
 # Text Formatting
 
 ```document.formattingOptions.fontSize = 16
 document.formattingOptions.fontFamily = "Helvetica"
-document.formattingOptions.lineSpacing = 1.2```
+document.formattingOptions.lineSpacing = 1.2
+```
 
 ## Contributing
 
