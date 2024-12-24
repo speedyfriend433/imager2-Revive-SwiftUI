@@ -73,6 +73,7 @@ Add these keys to your Info.plist:
 
 ## Project Structure
 
+```bash
 imager2/
 ├── imager2.swift
 ├── ContentView.swift
@@ -96,6 +97,7 @@ imager2/
 │   └── LanguageDetectionService.swift
 └── Utils/
     └── TextFormatter.swift
+```
 
 
 ## Key Components
