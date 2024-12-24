@@ -67,7 +67,8 @@ Add these keys to your Info.plist:
 <string>We need access to speech recognition to convert your voice to text</string>
 
 <key>NSMicrophoneUsageDescription</key>
-<string>We need access to the microphone to record your voice</string>```
+<string>We need access to the microphone to record your voice</string>
+```
 
 
 ## Project Structure
